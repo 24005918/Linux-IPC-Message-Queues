@@ -6,8 +6,8 @@ To write a C program that receives a message from message queue and display them
 
 # DESIGN STEPS:
 
-### Developed by: Puli Naga Neeraj
-### Reg No: 212223240130
+### Developed by: SANTHOSH V
+### Reg No: 212224230252
 
 ### Step 1:
 
