@@ -94,7 +94,8 @@ int main()
 
 ## OUTPUT
 
-![Uploading 377830824-d38a5e67-7505-45da-8521-7e34fa8fefb7.png…]()
+<img width="677" height="577" alt="image" src="https://github.com/user-attachments/assets/1cfa5b85-87b0-4f87-9289-4056fd2c2bb3" />
+
 
 
 ## RESUT:
