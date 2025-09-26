@@ -23,7 +23,7 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-## C program that receives a message from message queue and display them
+## C program that receives a message from message queue and display them:
 
 WRITER.C
 ```
@@ -85,6 +85,12 @@ int main()
 	return 0;
 }
 ```
+
+
+
+
+
+
 
 ## OUTPUT
 
